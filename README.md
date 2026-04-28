@@ -74,7 +74,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/feed/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:vedantborane006@gmail.com">
